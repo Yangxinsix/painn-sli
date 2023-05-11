@@ -10,5 +10,6 @@ pip install -U .
 
 </details>
 
+This work was supported by the Carlsberg Foundation through the Carlsberg Foundation Young Researcher Fellowship (Grant No. CF19-0304).
+
 Copyright © Technical University of Denmark 
-This work was supported by the Carlsberg Foundation through the Carlsberg Foundation Young Researcher Fellowship (Grant No. CF19-0304)
