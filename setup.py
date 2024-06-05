@@ -14,4 +14,5 @@ setup(
         'asap3>=3.12.8',
         'torch>=1.10',
         'scipy',
+    ]
 )
